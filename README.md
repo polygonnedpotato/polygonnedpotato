@@ -4,6 +4,6 @@ you may not know me, but i'm [@elburg on repl.it](repl.it/elburg). it is nice to
 
 My "Talents"
 
-![Python Talent](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/polygonnedpotato/polygonnedpotato/main/pytalentdata.json&style=plastic)
+![Python Talent](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpolygonnedpotato%2Fpolygonnedpotato%2Fmain%2Fpytalentdata.json)
 
 
