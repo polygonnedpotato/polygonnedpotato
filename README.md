@@ -1,6 +1,6 @@
 ### Hi there! I'm a potato
 
-you may not know me, but i'm [@elburg on repl.it](repl.it/elburg). it is nice to meet you!
+you may not know me, but i'm [@elburg on repl.it](https://repl.it/elburg "I make stuff there!"). it is nice to meet you!
 
 My "Talents"
 
