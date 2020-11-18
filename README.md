@@ -4,5 +4,6 @@ you may not know me, but i'm [@elburg on repl.it](repl.it/elburg). it is nice to
 
 My "Talents"
 
+![Python Talent](https://img.shields.io/endpoint?url=...&style=...)
 
 
