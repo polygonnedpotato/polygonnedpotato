@@ -9,6 +9,7 @@ My "Talents"
 ![Java Talent](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpolygonnedpotato%2Fpolygonnedpotato%2Fmain%2Fjavatalentdata.json "In a nutshell, don't ask me to help you with Java.")  
 ![HTML5 Talent](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/polygonnedpotato/polygonnedpotato/main/htmlfivetalentdata.json "lol i am noob.")  
 ![Android Studio Talent](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/polygonnedpotato/polygonnedpotato/main/androidstudiotalentdata.json "i can't really make android apps yet.") 
+![JavaScript Talent](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/polygonnedpotato/polygonnedpotato/main/jstalentdata.json "don't know how to make web apps") 
 
 # things i would like to see made:
 
