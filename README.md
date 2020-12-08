@@ -8,4 +8,10 @@ My "Talents"
 ![Kotlin Talent](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpolygonnedpotato%2Fpolygonnedpotato%2Fmain%2Fkttalentdata.json "I know Kotlin, but I don't know Kotlin.")  
 ![Java Talent](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpolygonnedpotato%2Fpolygonnedpotato%2Fmain%2Fjavatalentdata.json "In a nutshell, don't ask me to help you with Java.")  
 ![HTML5 Talent](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/polygonnedpotato/polygonnedpotato/main/htmlfivetalentdata.json "lol i am noob.")  
-![Android Studio Talent](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/polygonnedpotato/polygonnedpotato/main/androidstudiotalentdata.json "i can't really make android apps yet.")  
+![Android Studio Talent](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/polygonnedpotato/polygonnedpotato/main/androidstudiotalentdata.json "i can't really make android apps yet.") 
+
+# things i would like to see made:
+
+here are some things i would like to see created:
+
+1. Web or javascript app to run a web browser inside of another web browser
