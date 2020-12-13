@@ -1,4 +1,5 @@
 ### Hi there! I'm a potato
+Last Updated: Sunday, December 13, 2020
 
 You may not know me, but i'm [@elburg on repl.it](https://repl.it/@elburg "I make stuff there!"). It is nice to meet you! I use GitHub to publish my projects.
 
@@ -10,9 +11,10 @@ My "Talents"
 ![HTML5 Talent](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/polygonnedpotato/polygonnedpotato/main/htmlfivetalentdata.json "lol i am noob.")  
 ![Android Studio Talent](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/polygonnedpotato/polygonnedpotato/main/androidstudiotalentdata.json "i can't really make android apps yet.")  
 ![JavaScript Talent](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/polygonnedpotato/polygonnedpotato/main/jstalentdata.json "don't know how to make web apps") 
-
+  
 # things i would like to see made:
 
 here are some things i would like to see created:
 
-1. Web or javascript app to run a web browser inside of another web browser
+1. Web or javascript app to run a web browser inside of another web browser  
+  
