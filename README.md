@@ -16,4 +16,4 @@ My "Talents"
 here are some things i would like to see created:
 
 1. Web or javascript app to run a web browser inside of another web browser  
-  
+2. ungoogled android
