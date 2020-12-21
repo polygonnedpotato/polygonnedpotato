@@ -1,5 +1,5 @@
 ### Hi there! I'm a potato
-Last Updated: Friday, December 18, 2020   
+Last Updated: Sunday, December 20, 2020   
 You may not know me, but I'm [@elburg on repl.it](https://repl.it/@elburg "I make stuff there!"). It is very nice to meet you! You will see that I will use GitHub to publish my projects.
 
 My "Talents"
