@@ -5,9 +5,9 @@ You may not know me, but I'm [@elburg on repl.it](https://repl.it/@elburg "I mak
 My "Talents"
 
 ![Repl.it Talent](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/polygonnedpotato/polygonnedpotato/main/talentdata/replit.json "I (almost) know my entire way around!")  
-![Python Talent](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpolygonnedpotato%2Fpolygonnedpotato%2Fmain%2Ftalentdata%2Fpy.json "Basically, I know my way around...")  
-![Kotlin Talent](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpolygonnedpotato%2Fpolygonnedpotato%2Fmain%2Ftalentdata%2Fkt.json "I know Kotlin, but I don't know Kotlin.")  
-![Java Talent](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpolygonnedpotato%2Fpolygonnedpotato%2Fmain%2Ftalentdata%2Fjava.json "In a nutshell, don't ask me to help you with Java.")  
+![Python Talent](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/polygonnedpotato/polygonnedpotato/main/talentdata/py.json&namedLogo=https://raw.githubusercontent.com/polygonnedpotato/polygonnedpotato/main/talentdata/py.svg "Basically, I know my way around...")  
+![Kotlin Talent](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/polygonnedpotato/polygonnedpotato/main/talentdata/kt.json "I know Kotlin, but I don't know Kotlin.")  
+![Java Talent](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/polygonnedpotato/polygonnedpotato/main/talentdata/java.json "In a nutshell, don't ask me to help you with Java.")  
 ![HTML5 Talent](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/polygonnedpotato/polygonnedpotato/main/talentdata/htmlfive.json "lol i am a noob but getting better.")  
 ![Android Studio Talent](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/polygonnedpotato/polygonnedpotato/main/talentdata/androidstudio.json "so i can't really make android apps yet.")  
 ![JavaScript Talent](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/polygonnedpotato/polygonnedpotato/main/talentdata/js.json "i don't know how to make web apps yet.")  
