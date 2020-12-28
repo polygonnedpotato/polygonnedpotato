@@ -2,5 +2,6 @@
   "schemaVersion": 1,
   "label": "Android Studio",
   "message": "12%",
-  "color": "red"
+  "color": "red",
+  "namedLogo": "Android Studio"
 }

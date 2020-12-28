@@ -2,5 +2,6 @@
   "schemaVersion": 1,
   "label": "Repl.it",
   "message": "77%",
-  "color": "brightgreen"
+  "color": "brightgreen",
+  "namedLogo": "repl.it"
 }
