@@ -2,5 +2,6 @@
   "schemaVersion": 1,
   "label": "Visual Studio",
   "message": "01%",
-  "color": "red"
+  "color": "red",
+  "namedLogo": "visual studio"
 }
