@@ -2,5 +2,6 @@
   "schemaVersion": 1,
   "label": "Kotlin",
   "message": "32%",
-  "color": "yellow"
+  "color": "yellow",
+  "namedLogo": "kotlin"
 }
