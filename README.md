@@ -12,6 +12,7 @@ My "Talents"
 ![Android Studio Talent](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/polygonnedpotato/polygonnedpotato/main/talentdata/androidstudio.json "so i can't really make android apps yet.")  
 ![JavaScript Talent](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/polygonnedpotato/polygonnedpotato/main/talentdata/js.json "i don't know how to make web apps yet.")  
 ![CSS Talent](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/polygonnedpotato/polygonnedpotato/main/talentdata/css.json "i got no style...          ... cuz i can't style anything.")   
+![Visual Studio Talent](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/polygonnedpotato/polygonnedpotato/main/talentdata/visualstudio.json "i don't know what im doing...")   
   
 # Some things I would like to see made:
 
