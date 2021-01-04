@@ -21,7 +21,8 @@ Here are some things I would like to see created:
 1. Web or JavaScript app to run a web browser inside of another web browser  
 2. Ungoogled Android
 
+[![polygonnedpotato's github stats](https://github-readme-stats.vercel.app/api?username=polygonnedpotato)](https://github.com/anuraghazra/github-readme-stats)
 
 Welp, that's all for now!
 
-Bye for now!
+Bye!
