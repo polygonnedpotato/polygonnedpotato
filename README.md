@@ -22,7 +22,7 @@ Here are some things I would like to see created:
 2. Ungoogled Android
 
 [![polygonnedpotato's github stats](https://github-readme-stats.vercel.app/api?username=polygonnedpotato)](https://github.com/anuraghazra/github-readme-stats)
-
+![Metrics](https://metrics.lecoq.io/polygonnedpotato?template=classic&pagespeed=1&languages=1&isocalendar=1&followup=1&stars=1&pagespeed.detailed=true&pagespeed.screenshot=true&isocalendar.duration=full-year&stars.limit=4&config.timezone=America%2FLos_Angeles)
 Welp, that's all for now!
 
 Bye!
