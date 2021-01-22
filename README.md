@@ -27,3 +27,5 @@ Here are some things I would like to see created:
 Welp, that's all for now!
 
 Bye!
+
+PM: https://join.skype.com/invite/rf21W2hkvXeX
