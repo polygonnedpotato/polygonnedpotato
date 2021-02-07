@@ -11,6 +11,8 @@ My "Talents"
 ![HTML5 Talent](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/polygonnedpotato/polygonnedpotato/main/talentdata/htmlfive.json "lol i am a noob but getting better.")  
 ![JavaScript Talent](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/polygonnedpotato/polygonnedpotato/main/talentdata/js.json "i don't know how to make web apps yet, but i do know quite a lot.")  
 ![Android Studio Talent](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/polygonnedpotato/polygonnedpotato/main/talentdata/androidstudio.json "so i can't really make android apps yet.")  
+![PyCharm Talent](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/polygonnedpotato/polygonnedpotato/main/talentdata/pycharm.json "i need to do some more work...")  
+![Node.js Talent](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/polygonnedpotato/polygonnedpotato/main/talentdata/nodejs.json "nope.")  
 ![CSS Talent](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/polygonnedpotato/polygonnedpotato/main/talentdata/css.json "i got no style...          ... cuz i can't style anything.")   
 ![Visual Studio Talent](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/polygonnedpotato/polygonnedpotato/main/talentdata/visualstudio.json "i don't know what im doing...")   
 ![C++ Talent](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/polygonnedpotato/polygonnedpotato/main/talentdata/cpp.json "don't speak the language")  
