@@ -15,6 +15,7 @@ My "Talents"
 ![Kotlin Talent](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/polygonnedpotato/polygonnedpotato/main/talentdata/kt.json "I know Kotlin, but I don't know Kotlin.")  
 ![Node.js Talent](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/polygonnedpotato/polygonnedpotato/main/talentdata/nodejs.json "nope.")  
 ![PyCharm Talent](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/polygonnedpotato/polygonnedpotato/main/talentdata/pycharm.json "i need to do some more work...")  
+![PHP Talent](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/polygonnedpotato/polygonnedpotato/main/talentdata/php.json "I got work i need to do first.")
 ![Visual Studio Talent](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/polygonnedpotato/polygonnedpotato/main/talentdata/vs.json "i don't know what im doing...")   
   
   
