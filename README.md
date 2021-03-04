@@ -10,15 +10,14 @@ My "Talents"
 ![HTML5 Talent](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/polygonnedpotato/polygonnedpotato/main/talentdata/htmlfive.json "lol i am a noob but getting better.")  
 ![Java Talent](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/polygonnedpotato/polygonnedpotato/main/talentdata/java.json "In a nutshell, don't ask me to help you with Java.")  
 ![JavaScript Talent](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/polygonnedpotato/polygonnedpotato/main/talentdata/js.json "i don't know how to make web apps yet, but i do know quite a lot.")  
-![Repl.it Talent](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/polygonnedpotato/polygonnedpotato/main/talentdata/replit.json "I (almost) know my entire way around!")  
-![Python Talent](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/polygonnedpotato/polygonnedpotato/main/talentdata/py.json&namedLogo=https://raw.githubusercontent.com/polygonnedpotato/polygonnedpotato/main/talentdata/py.svg "Basically, I know my way around...")  
 ![Kotlin Talent](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/polygonnedpotato/polygonnedpotato/main/talentdata/kt.json "I know Kotlin, but I don't know Kotlin.")  
 ![Node.js Talent](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/polygonnedpotato/polygonnedpotato/main/talentdata/nodejs.json "nope.")  
-![PyCharm Talent](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/polygonnedpotato/polygonnedpotato/main/talentdata/pycharm.json "i need to do some more work...")  
 ![PHP Talent](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/polygonnedpotato/polygonnedpotato/main/talentdata/php.json "I got work i need to do first.")  
+![PyCharm Talent](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/polygonnedpotato/polygonnedpotato/main/talentdata/pycharm.json "i need to do some more work...")  
+![Python Talent](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/polygonnedpotato/polygonnedpotato/main/talentdata/py.json&namedLogo=https://raw.githubusercontent.com/polygonnedpotato/polygonnedpotato/main/talentdata/py.svg "Basically, I know my way around...")  
+![Repl.it Talent](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/polygonnedpotato/polygonnedpotato/main/talentdata/replit.json "I (almost) know my entire way around!")  
+![Visual Studio Talent](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/polygonnedpotato/polygonnedpotato/main/talentdata/vs.json "i don't know what im doing...")  
 ![Visual Studio Code Talent](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/polygonnedpotato/polygonnedpotato/main/talentdata/vscode.json "I think i know what i'm doing...")  
-![Visual Studio Talent](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/polygonnedpotato/polygonnedpotato/main/talentdata/vs.json "i don't know what im doing...")   
-  
   
 # Some things I would like to see made:
 
