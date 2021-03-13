@@ -6,6 +6,7 @@ My "Talents"
 
 ![Android Studio Talent](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/polygonnedpotato/polygonnedpotato/main/talentdata/androidstudio.json "so i can't really make android apps yet.")  
 ![C++ Talent](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/polygonnedpotato/polygonnedpotato/main/talentdata/cpp.json "don't speak the language")  
+![C# Talent](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/polygonnedpotato/polygonnedpotato/main/talentdata/cs.json "i am learning fast though")  
 ![CSS Talent](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/polygonnedpotato/polygonnedpotato/main/talentdata/css.json "I'm starting to get it now!")   
 ![HTML5 Talent](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/polygonnedpotato/polygonnedpotato/main/talentdata/htmlfive.json "lol i am a noob but getting better.")  
 ![Java Talent](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/polygonnedpotato/polygonnedpotato/main/talentdata/java.json "In a nutshell, don't ask me to help you with Java.")  
@@ -29,6 +30,10 @@ Here are some things I would like to see created:
 [![polygonnedpotato's github stats](https://github-readme-stats.vercel.app/api?username=polygonnedpotato&show_icons=1&include_all_commits=1&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 ![Metrics](https://metrics.lecoq.io/polygonnedpotato?template=classic&languages=1&isocalendar=1&introduction=1&followup=1&activity=1&projects=1&people=1&lines=1&stars=1&pagespeed=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=true&introduction.title=true&isocalendar.duration=full-year&languages.colors=github&languages.details=bytes-size%2C%20percentage&languages.threshold=0%25&people.limit=30&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&projects.limit=4&projects.descriptions=false&stars.limit=4&pagespeed.url=a-1.elburg.repl.co&pagespeed.detailed=true&pagespeed.screenshot=true&config.timezone=America%2FLos_Angeles)
 ![](https://komarev.com/ghpvc/?username=polygonnedpotato)
+
+# Some of my projects that you can help me with  
+[Advanced Web Components](https://github.com/polygonnedpotato/advanced-web-components) A framework for added functinality to the web.  
+[iWork](https://github.com/polygonnedpotato/iwork) An Office Suite  
 
 Welp, that's all for now!
 
