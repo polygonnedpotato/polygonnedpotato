@@ -8,7 +8,7 @@ My name is Brendan Berger, and I am a learning programmer.
 
 [Twitter](https://twitter.com/whotookelburg)  
 [Replit](https://replit.com/@elburg)  
-[Skype](https://join.skype.com/invite/rf21W2hkvXeX)
+[Skype](https://join.skype.com/invite/rf21W2hkvXeX)  
 [Roblox](https://www.roblox.com/users/2810015396)
 
 
