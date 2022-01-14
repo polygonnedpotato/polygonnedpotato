@@ -1,4 +1,18 @@
-### Hi there! I'm a potato
+> NOTICE: I am rewriting my readme to be at a more updated version.
+
+# Greetings.
+
+My name is Brendan Berger, and I am a learning programmer. 
+
+## Social Links
+
+[Twitter](https://twitter.com/whotookelburg)  
+[Replit](https://replit.com/@elburg)  
+[Skype](https://join.skype.com/invite/rf21W2hkvXeX)
+
+
+Have a good day.
+<!-- ### Hi there! I'm a potato
 
 You may not know me, but I'm [@elburg on repl.it](https://repl.it/@elburg "I make stuff there!"). It is very nice to meet you! You will see that I will use GitHub to publish my projects.
 
@@ -40,3 +54,4 @@ Welp, that's all for now!
 Bye!
 
 PM: https://join.skype.com/invite/rf21W2hkvXeX
+ -->
