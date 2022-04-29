@@ -1,4 +1,6 @@
-> NOTICE: I am rewriting my readme to be at a more updated version.
+> NOTICE: I am rewriting my readme to be at a more updated version.  
+> Gender: Male  
+> Pronouns: she/her  
 
 # Greetings.
 
