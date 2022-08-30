@@ -1,5 +1,5 @@
 > NOTICE: I am rewriting my readme to be at a more updated version.  
-> Gender: Male  
+> Gender: Trans  
 > Pronouns: she/her  
 
 # Greetings.
@@ -9,7 +9,6 @@ My name is Brendan Berger, and I am a learning programmer.
 ## Social Links
 
 [Replit](https://replit.com/@notelburg)  
-[Skype](https://join.skype.com/invite/rf21W2hkvXeX)  
 
 Have a good day.
 
